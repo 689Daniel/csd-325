@@ -1,3 +1,6 @@
+#Daniel Preller, Assignment 7.2, 8 June 2025
+#Program to format information about cities, with test data
+
 def main():
     #test data
     print(format_city("Jakarta", "Indonesia"))#Order changed from initial test data because several languages are commonly spoken in Indonesia
